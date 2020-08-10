@@ -19,8 +19,9 @@ Welcome to the Turing Space Agency repository! This is where I detail all my end
  - pnp transistor
  - slide switch
  - electric igniters or nichrome wire
+ - long wire (recycled or otherwise)
  - optional: breadboard for prototyping
- - optional: 3D printer for parts found [here](https://github.com/olearyf/turing-space-agency/tree/master/remote-ignition-system)
+ - optional: 3D printer for parts found [here](https://github.com/olearyf/turing-space-agency/tree/master/remote-ignition-system) (note you’ll need some 6x3 mm magnets)
  
  ### Assembly
  
